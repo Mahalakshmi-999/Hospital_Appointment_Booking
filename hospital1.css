@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image:url(h.jpg);
+    background-size: cover;
+    border: solid black;
+}
+h1 {
+    background-color: rgb(20, 231, 20);
+    padding: 1%;
+}
+#bookingForm {
+    color: rgb(5, 5, 125);
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+}
+input:hover {
+    background-color: rgb(167, 239, 239);
+}
+select:hover {
+    background-color: rgb(167, 239, 239);
+}
+button {
+    background-color: rgb(20, 231, 20);
+    color: black;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(7, 174, 7);
+}
+#appointmentList {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
+}
+#appointments {
+    background-color: white;
+}
+
+

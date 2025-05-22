@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="hospital1.css">
+    <title>Hospital Booking System</title>
+</head>
+<body>
+    <center>
+    <h1>HOSPITAL APPOINTMENT BOOKING</h1>
+</center>
+    <div id="bookingForm"><b>
+        <label for="patientName">Patient Name:</label>
+        <input type="text" id="patientName" placeholder="Enter your name">
+        <label for="email">Email ID:</label>
+        <input type="text" id="email" placeholder="Enter your Email ID">
+        <label for="phonenumber">Phone Number:</label>
+        <input type="text" id="phonenumber" placeholder="Enter your phone number">
+        <label for="doctorSelect">Select Doctor:</label>
+        <select id="doctorSelect">
+            <option value="Dr.Smith">Dr. Smith:dentist</option>
+            <option value="Dr.Johnson">Dr. Johnson:surgen</option>
+            <option value="Dr.Ashvin">Dr. Ashwin:homeopathy</option>
+            <option value="Dr.Smitha">Dr. Smitha:nurologist</option>
+        </select>
+        <label for="appointmentDate">Select Date:</label>
+        <input type="date" id="appointmentDate">
+        <label for="appointmenttime">Select Time:</label>
+        <input type="time" id="appointmenttime"><br>
+        <button style="font-size: 20px;" onclick="bookAppointment()"><b>Book Appointment</b></button></b>
+    </div>
+    <div id="appointmentList">
+        <h2 style="color: black;">Your Appointments</h2>
+        <ul id="appointments"></ul>
+    </div>
+    <script src="hospital1.js"></script>
+</body>
+</html>
+
+
+

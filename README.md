@@ -12,8 +12,8 @@ The `welcome.html` page serves as the starting point and includes institution de
 
 ## 🚀 Technologies Used
 - HTML5
-- CSS (if added)
-- JavaScript (if added)
+- CSS 
+- JavaScript 
 - Localhost server for backend integration
 
 ## 📁 File Structure

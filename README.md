@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Hospital Appointment Booking Web Project
+=======
+# Hospital Apppointment Booking Web Project
+>>>>>>> f299f99 (Initial commit with all project files)
 
 This is the final project developed as part of the **Mevi Internship** program.
 
@@ -17,7 +21,7 @@ The `welcome.html` page serves as the starting point and includes institution de
 - Localhost server for backend integration
 
 ## 📁 File Structure
-- `welcome.html` – Main entry page with project info
+- `hospital.html` – Main entry page with project info
 - Image files – JPG/JPEG files used in the interface
 - `hospital1.html`, `hospital2.html`, etc. – Possibly reused or demo HTML pages
 - `r1.html`, etc. – Additional project pages

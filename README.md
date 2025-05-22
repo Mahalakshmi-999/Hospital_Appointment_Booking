@@ -1,4 +1,4 @@
-# Train Booking Web Project
+# Hospital Appointment Booking Web Project
 
 This is the final project developed as part of the **Mevi Internship** program.
 

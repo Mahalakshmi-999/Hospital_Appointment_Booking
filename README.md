@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # Hospital Appointment Booking Web Project
-=======
-# Hospital Apppointment Booking Web Project
->>>>>>> f299f99 (Initial commit with all project files)
 
-This is the final project developed as part of the **Mevi Internship** program.
+This is the final project developed as part of the **Front end web Development** program.
 
-## 🏫 Institute
+## 🏫 Mevi Twchnologies LLP Bangalore
 **Dr. Ambedkar Institute of Technology**, Bengaluru  
 Autonomous Institution, Aided by Government of Karnataka
 

@@ -12,7 +12,7 @@ Autonomous Institution, Aided by Government of Karnataka
 
 ## 👩‍💻 Project Description
 This is a web-based train booking interface with HTML and local server integration.  
-The `welcome.html` page serves as the starting point and includes institution details, project members, and a navigation button to the train booking system.
+The `welcome.html` page serves as the starting point and includes institution details, project members, and a navigation button to the Hospital Appointment Booking System.
 
 ## 🚀 Technologies Used
 - HTML5
